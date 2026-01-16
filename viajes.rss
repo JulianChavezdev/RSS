@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explora Ciudades</title>
+    <link>https://www.exploraciudades.com</link>
+    <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 16 Jan 2026 14:30:00 +0000</lastBuildDate>
+    <atom:link href="https://www.exploraciudades.com/viajes.rss" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Ruta gastronómica por Barcelona</title>
+      <link>https://www.exploraciudades.com/ruta-barcelona</link>
+      <guid isPermaLink="true">https://www.exploraciudades.com/ruta-barcelona</guid>
+                              <description>Descubre los sabores auténticos de la Ciudad Condal, desde los mercados tradicionales hasta las tapas más vanguardistas.</description>
+                                     <pubDate>Mon, 12 Jan 2026 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Los mejores miradores de París</title>
+      <link>https://www.exploraciudades.com/miradores-paris</link>
+      <guid isPermaLink="true">https://www.exploraciudades.com/miradores-paris</guid>
+      <description>Una selección estratégica de puntos elevados para capturar la Ciudad de la Luz sin las trampas para turistas.</description>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Cómo moverse en Nueva York en 3 días</title>
+      <link>https://www.exploraciudades.com/nueva-york-3-dias</link>
+      <guid isPermaLink="true">https://www.exploraciudades.com/nueva-york-3-dias</guid>
+      <description>Guía optimizada de transporte público y rutas a pie para maximizar tu tiempo en la Gran Manzana.</description>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Museos imperdibles de Tokio</title>
+      <link>https://www.exploraciudades.com/museos-tokio</link>
+      <guid isPermaLink="true">https://www.exploraciudades.com/museos-tokio</guid>
+      <description>Desde arte digital inmersivo hasta historia samurái: los museos que definen la capital japonesa.</description>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

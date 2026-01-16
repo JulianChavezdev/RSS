@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Explora Ciudades</title>
+  <subtitle>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</subtitle>
+  <link href="https://www.exploraciudades.com/viajes.atom" rel="self"/>
+  <link href="https://www.exploraciudades.com/"/>
+  <updated>2026-01-16T14:30:00Z</updated>
+  <id>https://www.exploraciudades.com/</id>
+  <author>
+    <name>Explora Ciudades</name>
+  </author>
+
+  <entry>
+    <title>Ruta gastronómica por Barcelona</title>
+    <link href="https://www.exploraciudades.com/ruta-barcelona"/>
+    <id>https://www.exploraciudades.com/ruta-barcelona</id>
+    <updated>2026-01-12T10:00:00Z</updated>
+    <summary>Descubre los sabores auténticos de la Ciudad Condal, desde los mercados tradicionales hasta las tapas más vanguardistas.</summary>
+  </entry>
+
+  <entry>
+    <title>Los mejores miradores de París</title>
+    <link href="https://www.exploraciudades.com/miradores-paris"/>
+    <id>https://www.exploraciudades.com/miradores-paris</id>
+    <updated>2026-01-13T12:00:00Z</updated>
+    <summary>Una selección estratégica de puntos elevados para capturar la Ciudad de la Luz sin las trampas para turistas.</summary>
+  </entry>
+
+  <entry>
+    <title>Cómo moverse en Nueva York en 3 días</title>
+    <link href="https://www.exploraciudades.com/nueva-york-3-dias"/>
+    <id>https://www.exploraciudades.com/nueva-york-3-dias</id>
+    <updated>2026-01-14T09:00:00Z</updated>
+    <summary>Guía optimizada de transporte público y rutas a pie para maximizar tu tiempo en la Gran Manzana.</summary>
+  </entry>
+
+  <entry>
+    <title>Museos imperdibles de Tokio</title>
+    <link href="https://www.exploraciudades.com/museos-tokio"/>
+    <id>https://www.exploraciudades.com/museos-tokio</id>
+    <updated>2026-01-15T15:00:00Z</updated>
+    <summary>Desde arte digital inmersivo hasta historia samurái: los museos que definen la capital japonesa.</summary>
+  </entry>
+</feed>
