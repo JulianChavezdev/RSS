@@ -10,10 +10,10 @@ Este repositorio contiene la implementación de feeds de sindicación para el bl
 Ambos archivos han sido validados mediante el **W3C Feed Validation Service*.
 
 ### Captura de Validación RSS 2.0
-<image src="C:\Users\julic\Desktop\ProyectoFP\LENGUAJES DE MARCA\tarea\image.png" alt="Descripción de la imagen">
+<image src="/image.png" alt="Descripción de la imagen">
 
 ### Captura de Validación Atom 1.0
-<image src="C:\Users\julic\Desktop\ProyectoFP\LENGUAJES DE MARCA\tarea\imagen2.png" alt="Descripción de la imagen">
+<image src="/imagen2.png" alt="Descripción de la imagen">
 
 ---
 
