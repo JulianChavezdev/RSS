@@ -15,5 +15,8 @@ Ambos archivos han sido validados mediante el **W3C Feed Validation Service*.
 ### Captura de Validación Atom 1.0
 <image src="/imagen2.png" alt="Descripción de la imagen">
 
+### Captura de Validación Atom 1.0
+<image src="/gracias-por-su-atencion-17.gif" alt="Descripción de la imagen">
+
 ---
 
